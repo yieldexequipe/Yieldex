@@ -3,7 +3,7 @@ export default function YieldexLandingPage() {
     <main className="min-h-screen bg-[#F9FAFC] text-gray-900 flex flex-col items-center px-6 py-12">
       {/* Logo */}
       <header className="w-full max-w-6xl mb-12 flex justify-center">
-        <img src="/logo-yieldex.png" alt="Yieldex Logo" className="h-16" />
+        <img src="/logo-yieldex.png" alt="Yieldex Logo" className="h-28 md:h-36" />
       </header>
 
       {/* Hero Section */}
@@ -13,10 +13,10 @@ export default function YieldexLandingPage() {
           Com base nas suas metas e perfil, a IA da <span className="font-semibold text-[#2ECC71]">Yieldex</span> encontra ativos que fazem sentido pra você — fundos, ações e tesouro direto, em minutos.
         </p>
         <a
-          href="https://tally.so/r/wdRYMD"
+          href="https://tally.so/r/your-form-link"
           target="_blank"
           rel="noopener noreferrer"
-          className="bg-[#2ECC71] text-white px-6 py-3 rounded-2xl shadow-md hover:bg-[#465cd0] transition"
+          className="bg-[#2ECC71] text-white px-6 py-3 rounded-2xl shadow-md hover:bg-[#2ECC71] transition"
         >
           Começar agora
         </a>
@@ -64,7 +64,7 @@ export default function YieldexLandingPage() {
       <section className="mt-20 text-center">
         <h2 className="text-2xl font-bold mb-4 text-[#1E2A3A]">Pronto para investir com mais clareza?</h2>
         <a
-          href="https://tally.so/r/wdRYMD"
+          href="https://tally.so/r/your-form-link"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#2ECC71] text-white px-6 py-3 rounded-2xl shadow-md hover:bg-[#465cd0] transition"
@@ -81,4 +81,5 @@ export default function YieldexLandingPage() {
     </main>
   );
 }
+
 
