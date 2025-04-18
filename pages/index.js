@@ -3,7 +3,7 @@ export default function YieldexLandingPage() {
     <main className="min-h-screen bg-[#F9FAFC] text-gray-900 flex flex-col items-center px-6 py-12">
       {/* Logo */}
       <header className="w-full max-w-6xl mb-12 flex justify-center">
-        <img src="/logo-yieldex.png" alt="Yieldex Logo" className="h-28 md:h-36" />
+        <img src="/logo-yieldex.png" alt="Yieldex Logo" className="h-56 md:h-64" />
       </header>
 
       {/* Hero Section */}
