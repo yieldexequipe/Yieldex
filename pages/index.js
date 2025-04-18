@@ -10,13 +10,13 @@ export default function YieldexLandingPage() {
       <section className="max-w-3xl text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4 text-[#1E2A3A]">Descubra os melhores investimentos para o seu objetivo</h1>
         <p className="text-lg md:text-xl mb-6 text-[#3A4D63]">
-          Com base nas suas metas e perfil, a IA da <span className="font-semibold text-[#5B72F2]">Yieldex</span> encontra ativos que fazem sentido pra você — fundos, ações e tesouro direto, em minutos.
+          Com base nas suas metas e perfil, a IA da <span className="font-semibold text-[#2ECC71]">Yieldex</span> encontra ativos que fazem sentido pra você — fundos, ações e tesouro direto, em minutos.
         </p>
         <a
           href="https://tally.so/r/wdRYMD"
           target="_blank"
           rel="noopener noreferrer"
-          className="bg-[#5B72F2] text-white px-6 py-3 rounded-2xl shadow-md hover:bg-[#465cd0] transition"
+          className="bg-[#2ECC71] text-white px-6 py-3 rounded-2xl shadow-md hover:bg-[#465cd0] transition"
         >
           Começar agora
         </a>
@@ -67,7 +67,7 @@ export default function YieldexLandingPage() {
           href="https://tally.so/r/wdRYMD"
           target="_blank"
           rel="noopener noreferrer"
-          className="bg-[#5B72F2] text-white px-6 py-3 rounded-2xl shadow-md hover:bg-[#465cd0] transition"
+          className="bg-[#2ECC71] text-white px-6 py-3 rounded-2xl shadow-md hover:bg-[#465cd0] transition"
         >
           Quero receber minhas sugestões
         </a>
