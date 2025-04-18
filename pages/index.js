@@ -8,7 +8,7 @@ export default function YieldexLandingPage() {
 
       {/* Hero Section */}
       <section className="max-w-3xl text-center">
-        <h1 className="text-4xl md:text-5xl font-bold mb-4 text-[#1E2A3A]">Descubra os melhores investimentos para o seu objetivo</h1>
+        <h1 className="text-4xl md:text-5xl font-bold mb-4 text-[#1E2A38]">Descubra os melhores investimentos para o seu objetivo</h1>
         <p className="text-lg md:text-xl mb-6 text-[#3A4D63]">
           Com base nas suas metas e perfil, a IA da <span className="font-semibold text-[#2ECC71]">Yieldex</span> encontra ativos que fazem sentido pra você — fundos, ações e tesouro direto, em minutos.
         </p>
@@ -26,24 +26,24 @@ export default function YieldexLandingPage() {
       <section className="mt-20 max-w-4xl w-full grid gap-10 md:grid-cols-3 text-center">
         <div>
           <span className="text-3xl">📝</span>
-          <h3 className="text-xl font-semibold mt-4 text-[#1E2A3A]">Responda um formulário</h3>
+          <h3 className="text-xl font-semibold mt-4 text-[#1E2A38]">Responda um formulário</h3>
           <p className="text-[#4B5C6B] mt-2">Informações simples sobre seu objetivo, perfil e valor disponível.</p>
         </div>
         <div>
           <span className="text-3xl">🤖</span>
-          <h3 className="text-xl font-semibold mt-4 text-[#1E2A3A]">IA analisa seus dados</h3>
+          <h3 className="text-xl font-semibold mt-4 text-[#1E2A38]">IA analisa seus dados</h3>
           <p className="text-[#4B5C6B] mt-2">Nosso sistema entende seu perfil e busca os melhores ativos.</p>
         </div>
         <div>
           <span className="text-3xl">📈</span>
-          <h3 className="text-xl font-semibold mt-4 text-[#1E2A3A]">Receba sugestões</h3>
+          <h3 className="text-xl font-semibold mt-4 text-[#1E2A38]">Receba sugestões</h3>
           <p className="text-[#4B5C6B] mt-2">Receba recomendações por e-mail com explicações claras.</p>
         </div>
       </section>
 
       {/* Benefits */}
       <section className="mt-20 max-w-3xl text-center">
-        <h2 className="text-2xl font-bold mb-4 text-[#1E2A3A]">Por que usar o Yieldex?</h2>
+        <h2 className="text-2xl font-bold mb-4 text-[#1E2A38]">Por que usar o Yieldex?</h2>
         <ul className="text-[#3A4D63] space-y-2">
           <li>✅ Rápido e gratuito</li>
           <li>✅ Linguagem simples e direta</li>
@@ -54,7 +54,7 @@ export default function YieldexLandingPage() {
 
       {/* Example Output */}
       <section className="mt-20 max-w-xl bg-white p-6 rounded-2xl shadow border border-[#E3E8F0]">
-        <h3 className="text-xl font-semibold mb-4 text-[#1E2A3A]">Exemplo de sugestão</h3>
+        <h3 className="text-xl font-semibold mb-4 text-[#1E2A38]">Exemplo de sugestão</h3>
         <div className="text-left text-[#3A4D63]">
           <p><strong>💰 Tesouro IPCA+ 2035</strong><br/>Ideal para quem busca segurança e proteção contra inflação no longo prazo.<br/><em>Risco: Baixo | Indicado para objetivos como aposentadoria.</em></p>
         </div>
@@ -62,7 +62,7 @@ export default function YieldexLandingPage() {
 
       {/* CTA Final */}
       <section className="mt-20 text-center">
-        <h2 className="text-2xl font-bold mb-4 text-[#1E2A3A]">Pronto para investir com mais clareza?</h2>
+        <h2 className="text-2xl font-bold mb-4 text-[#1E2A38]">Pronto para investir com mais clareza?</h2>
         <a
           href="https://tally.so/r/your-form-link"
           target="_blank"
