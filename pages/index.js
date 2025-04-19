@@ -1,6 +1,30 @@
+import Head from 'next/head';
+
 export default function YieldexLandingPage() {
   return (
-    <main className="min-h-screen bg-[#F9FAFC] text-gray-900 flex flex-col items-center px-6 py-12">
+    <>
+      <Head>
+        <title>Yieldex - IA que sugere os melhores investimentos pra você</title>
+        <meta name="description" content="A IA da Yieldex analisa seu perfil e te mostra os investimentos ideais — de forma simples, rápida e gratuita." />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta charSet="utf-8" />
+        <link rel="icon" href="/favicon.ico" />
+
+        {/* Open Graph */}
+        <meta property="og:title" content="Yieldex – IA que sugere os melhores investimentos pra você" />
+        <meta property="og:description" content="A IA da Yieldex analisa seu perfil e te mostra os investimentos ideais — de forma simples, rápida e gratuita." />
+        <meta property="og:image" content="/og-image.png" />
+        <meta property="og:url" content="https://yieldex.vercel.app" />
+        <meta property="og:type" content="website" />
+
+        {/* Twitter */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Yieldex – IA que sugere os melhores investimentos pra você" />
+        <meta name="twitter:description" content="A IA da Yieldex analisa seu perfil e te mostra os investimentos ideais — de forma simples, rápida e gratuita." />
+        <meta name="twitter:image" content="/og-image.png" />
+      </Head>
+
+     <main className="min-h-screen bg-[#F9FAFC] text-gray-900 flex flex-col items-center px-6 py-12">
       {/* Logo */}
       <header className="w-full max-w-6xl mb-12 flex justify-center">
         <img src="/logo-yieldex.png" alt="Yieldex Logo" className="h-56 md:h-64" />
@@ -79,7 +103,9 @@ export default function YieldexLandingPage() {
         <p className="mt-2">*As sugestões são automatizadas. Invista com consciência.*</p>
       </footer>
     </main>
+    </>
   );
 }
+
 
 
