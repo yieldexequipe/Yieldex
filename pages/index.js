@@ -37,7 +37,7 @@ export default function YieldexLandingPage() {
           Com base nas suas metas e perfil, a IA da <span className="font-semibold text-[#2ECC71]">Yieldex</span> encontra ativos que fazem sentido pra você — fundos, ações e tesouro direto, em minutos.
         </p>
         <a
-          href="https://tally.so/r/your-form-link"
+          href="https://tally.so/r/wdRYMD"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#2ECC71] text-white px-6 py-3 rounded-2xl shadow-md hover:bg-[#2ECC71] transition"
@@ -88,7 +88,7 @@ export default function YieldexLandingPage() {
       <section className="mt-20 text-center">
         <h2 className="text-2xl font-bold mb-4 text-[#1E2A38]">Pronto para investir com mais clareza?</h2>
         <a
-          href="https://tally.so/r/your-form-link"
+          href="https://tally.so/r/wdRYMD"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#2ECC71] text-white px-6 py-3 rounded-2xl shadow-md hover:bg-[#465cd0] transition"
