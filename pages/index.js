@@ -14,7 +14,7 @@ export default function YieldexLandingPage() {
         <meta property="og:title" content="Yieldex – IA que sugere os melhores investimentos pra você" />
         <meta property="og:description" content="A IA da Yieldex analisa seu perfil e te mostra os investimentos ideais — de forma simples, rápida e gratuita." />
         <meta property="og:image" content="/og-image.png" />
-        <meta property="og:url" content="https://yieldex.vercel.app" />
+        <meta property="og:url" content="https://yieldexcom.vercel.app" />
         <meta property="og:type" content="website" />
 
         {/* Twitter */}
